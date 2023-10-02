@@ -1,2 +1,2 @@
 # Usearch_Running_All
-It is a Homology finding program.
+Homology Finding and Normalization. Run UsearchSorter1 then renaming then Usearchsorter2
